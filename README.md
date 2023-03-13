@@ -1,33 +1,39 @@
-Raphael Palma - Portfólio
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/43294744?s=400&u=89b92fba18363af9f8581a8f2c5cf5f5b6a10e85&v=4" alt="Foto de perfil de Raphael Palma" width="200" height="200">
+  <img src="https://github.com/raphaelgpalma/raphaelgpalma/blob/main/header.png" alt="Header do perfil de Raphael Palma">
 </p>
+<h1 align="center">Olá, eu sou Raphael Palma</h1>
+<p align="center">🚀 Graduando em Ciência da Computação 🚀</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgpalma&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas por Raphael Palma">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelgpalma&show_icons=true&theme=dark" alt="Estatísticas do perfil de Raphael Palma">
+</p>
+💻 Projetos
 
-Olá, seja bem-vindo ao meu portfólio! Meu nome é Raphael Palma e atualmente estou cursando Ciência da Computação.
-Sobre mim
+Aqui estão alguns dos projetos mais relevantes que eu já trabalhei:
 
-Eu sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas. Meu principal interesse é em desenvolvimento de software e aplicações web, e sou especialmente fascinado por programação em Python. Além disso, gosto de me desafiar resolvendo problemas em plataformas de desafios como o HackerRank e o Codeforces.
-Projetos
+    Investimentos - Um aplicativo para calcular o montante de um investimento ao longo do tempo, feito em Python e Flask.
 
-    Investimentos: Um aplicativo para calcular o montante de um investimento ao longo do tempo, feito em Python e Flask. Link para o repositório
-    Sistema de Gerenciamento de Biblioteca: Um sistema web para gerenciar empréstimos de livros em uma biblioteca, feito em Java e Spring Boot. Link para o repositório
-    Jogo da Velha: Um jogo da velha para ser jogado no terminal, feito em C++. Link para o repositório
+    Sistema de Gerenciamento de Biblioteca - Um sistema web para gerenciar empréstimos de livros em uma biblioteca, feito em Java e Spring Boot.
 
-Habilidades
+    Jogo da Velha - Um jogo da velha para ser jogado no terminal, feito em C++.
 
-Eu estou sempre em busca de aprimorar minhas habilidades técnicas, e atualmente estou estudando as seguintes linguagens e tecnologias:
+    Emojis para Discord - Uma coleção de emojis personalizados para o Discord.
 
-    Python
-    Java
-    C++
-    HTML/CSS
-    JavaScript
-    Flask
-    Spring Boot
+🛠️ Habilidades
 
-Contato
+Eu tenho experiência com as seguintes linguagens e tecnologias:
 
-Se você quiser entrar em contato comigo, por favor, sinta-se livre para me enviar um e-mail ou uma mensagem no LinkedIn:
+Python
+Java
+C++
+HTML5
+CSS3
+JavaScript
+Flask
+Spring Boot
+📫 Contato
 
-    E-mail: raphael.palma@exemplo.com
-    LinkedIn: Raphael Palma
+Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn ou me enviar um e-mail:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-
