@@ -31,7 +31,7 @@ HTML5
 CSS3
 JavaScript
 Flask
-Spring Boot
+
 📫 Contato
 
 Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn ou me enviar um e-mail:
