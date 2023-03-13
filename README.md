@@ -24,7 +24,7 @@ Aqui estão alguns dos projetos mais relevantes que eu já trabalhei:
 
 Eu tenho experiência com as seguintes linguagens e tecnologias:
 
-[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+(https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 Java
 C++
 HTML5
