@@ -13,16 +13,15 @@ Sobre mim 🙋‍♂️
 Meu nome é Raphael Palma e sou um graduando em Ciência da Computação. Eu amo programar e estou sempre aprendendo algo novo.
 Tecnologias que eu conheço 🛠️
 
-    Java
     Python
-    JavaScript
-    HTML/CSS
+    HTML5
+    CSS3
     Git
 
 Contato 📱
 
-    Email: seuemailaqui@gmail.com
+    Email: raphaelgpalma@icloud.com
     LinkedIn: Raphael Palma
-    Twitter: @seu_twitter_aqui
+    
 
 
