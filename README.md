@@ -1,9 +1,4 @@
 
-<html>
-  <head>
-    <title>README.md</title>
-  </head>
-  <body>
   
     <h1 align="center">Olá, eu sou Raphael Palma</h1>
     <h2 align="center">🚀 Graduando em Ciência da Computação 🚀</h2>
