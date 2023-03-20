@@ -12,28 +12,21 @@
 
 Aqui estão alguns dos projetos mais relevantes que eu já trabalhei:
 
-    Investimentos - Um aplicativo para calcular o montante de um investimento ao longo do tempo, feito em Python e Flask.
-
-    Sistema de Gerenciamento de Biblioteca - Um sistema web para gerenciar empréstimos de livros em uma biblioteca, feito em Java e Spring Boot.
-
-    Jogo da Velha - Um jogo da velha para ser jogado no terminal, feito em C++.
-
-    Emojis para Discord - Uma coleção de emojis personalizados para o Discord.
+  
 
 🛠️ Habilidades
 
 Eu tenho experiência com as seguintes linguagens e tecnologias:
 
-(https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Python
 Java
 C++
 HTML5
 CSS3
-JavaScript
 Flask
 
 📫 Contato
 
 Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn ou me enviar um e-mail:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-
+
