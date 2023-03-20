@@ -1,6 +1,6 @@
-                                                           Olá, eu sou Raphael Palma 👋
+                                                    Olá, eu sou Raphael Palma 👋
 
-                                                      🚀 Graduando em Ciência da Computação 🚀
+                                             🚀 Graduando em Ciência da Computação 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgpalma&layout=compact&langs_count=6&theme=dark&hide_title=true" alt="Top Langs" />
 </p><p align="center">
