@@ -1,6 +1,6 @@
-                                                    Olá, eu sou Raphael Palma 
+                                                            Olá, eu sou Raphael Palma 
 
-                                            🚀 Graduando em Ciência da Computação 🚀
+                                                    🚀 Graduando em Ciência da Computação 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelgpalma&show_icons=true&theme=dark" alt="Estatísticas do perfil de Raphael Palma">
 </p><p align="center">
