@@ -18,6 +18,7 @@ Knowledge:
     HTML5
     CSS3
     Git
+    Jupyter Notebook
     VBA
     Power BI
     Excel
