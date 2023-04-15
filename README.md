@@ -15,8 +15,6 @@ Sobre mim:
 Knowledge:
 
     Python
-    HTML5
-    CSS3
     Git
     Jupyter Notebook
     VBA
