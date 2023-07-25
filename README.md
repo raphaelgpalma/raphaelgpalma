@@ -9,17 +9,18 @@ Sobre mim:
 Knowledge:
 
     Python
-    Git
     Jupyter Notebook
-    VBA
     Power BI
     Excel
+    Matplotlib
+    Pandas & Numpy
+    SQL
 
 Contato:
 
     Email: raphaelgpalma@icloud.com
-    LinkedIn: Raphael Palma
-    <p align="center">
+    LinkedIn: 
+    
 
 
 
