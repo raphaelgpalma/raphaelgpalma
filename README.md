@@ -1,10 +1,7 @@
                                                         Olá, eu sou Raphael Palma 
 
-                                                 🚀 Graduando em Ciência da Computação 🚀
+                                                   Graduando em Ciência da Computação 
 
-
-
-Sobre mim:
 
 Knowledge:
 
