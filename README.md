@@ -19,7 +19,7 @@ Knowledge:
 Contato:
 
     Email: raphaelgpalma@icloud.com
-    LinkedIn: 
+    LinkedIn: https://www.linkedin.com/in/raphaelgpalma/
     
 
 
