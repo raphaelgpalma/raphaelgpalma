@@ -6,6 +6,11 @@
 Knowledge:
 
     Python
+    Django
+    Ruby
+    Ruby on Rails
+    Javascript 
+    Typescript
     Jupyter Notebook
     Power BI
     Excel
@@ -13,7 +18,7 @@ Knowledge:
     Pandas & Numpy
     SQL
 
-Contato:
+Contacts:
 
     Email: raphaelgpalma@icloud.com
     LinkedIn: https://www.linkedin.com/in/raphaelgpalma/
