@@ -14,11 +14,6 @@ Knowledge:
     Pandas & Numpy
     SQL
 
-Contacts:
-
-    Email: raphaelgpalma@icloud.com
-    LinkedIn: https://www.linkedin.com/in/raphaelgpalma/
-    
 
 
 
