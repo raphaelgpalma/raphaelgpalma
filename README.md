@@ -11,10 +11,6 @@ Knowledge:
     Ruby on Rails
     Javascript 
     Typescript
-    Jupyter Notebook
-    Power BI
-    Excel
-    Matplotlib
     Pandas & Numpy
     SQL
 
